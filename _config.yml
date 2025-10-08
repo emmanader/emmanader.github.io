@@ -4,12 +4,17 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "flexton.netlify.com" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Author
-author-name:    Clayton Hanson
+author-name:    Emma Nader
 author-image:   1.jpg
-author-job:     Web Developer
-author-email:   your-email@domain.com # Add your email for contant form.
-author-twitter: artemsheludko_ # Add your twitter account
-about-author:   I am a web developer focusing on front-end development. Always hungry to keep learning.
+author-job:     Finance and Data Analytics Student
+author-email:   emma.nader25@gmail.com
+about-author:   High-achieving Finance student with a sub-major in Data Analytics (WAM 84.8, GPA 6.5),
+passionate about applying data-driven insights to solve complex business problems. Skilled in Excel,
+Tableau, and Power BI with experience in financial transactions, client service, and process
+improvement. Recognised for analytical thinking, adaptability, and clear communication, developed
+through academic excellence, work experience, and competitive case competitions. Seeking to
+contribute technical expertise, client service skills, and commercial awareness to a leading financial
+institution.
 
 # Social settings
 social-twitter:   artemsheludko_
